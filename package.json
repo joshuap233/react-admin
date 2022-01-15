@@ -21,7 +21,7 @@
     "draft-js-prism": "^1.0.6",
     "draftjs-utils": "^0.10.2",
     "immutable": "3.8.2",
-    "marked": "^0.8.0",
+    "marked": "^4.0.10",
     "material-ui-flat-pagination": "^4.1.0",
     "postinstall-postinstall": "^2.1.0",
     "prismjs": "^1.19.0",
