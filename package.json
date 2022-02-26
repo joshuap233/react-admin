@@ -24,7 +24,7 @@
     "marked": "^0.8.0",
     "material-ui-flat-pagination": "^4.1.0",
     "postinstall-postinstall": "^2.1.0",
-    "prismjs": "^1.19.0",
+    "prismjs": "^1.27.0",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-copy-to-clipboard": "^5.0.2",
