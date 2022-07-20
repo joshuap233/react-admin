@@ -78,7 +78,7 @@
     "react-app-rewired": "^2.1.6",
     "react-test-renderer": "^16.13.0",
     "source-map-explorer": "^2.4.1",
-    "terser": "^4.6.7",
+    "terser": "^4.8.1",
     "terser-brunch": "^4.0.0",
     "uglifyify": "^5.0.2"
   }
